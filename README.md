@@ -6,7 +6,7 @@ O objetivo desse fork é treinar alguns algoritmos em diferentes linguagens de p
 
 Coding Practice
 
-### [LeetCode](./LeetCode)
+### [LeetCode: List of all algorithms](./LeetCode)
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
