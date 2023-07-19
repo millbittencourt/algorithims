@@ -1,14 +1,10 @@
-Selecionamos alguns testes técnicos, pra começar o processo, basta fazer um fork deste repositório, resolver dois ou mais exercícios em qualquer linguagem, preferencialmente PHP, Java, Javascript, Python ou C(++), depois faz um pull request pra gente avaliar tua solução.
+Fork de um repositório com algoritmos de diversos níveis de dificuldade para recrutamento :)
 
-Caso você mostre um resultado legal, vamos te chamar pra uma entrevista.
-
-[Entra aqui na wiki](https://github.com/ecpsampaio/recruitment/wiki) deste projeto pra você conhecer melhor nosso processo seletivo.
-
-Jogue duro!
+O objetivo desse fork é treinar alguns algoritmos em diferentes linguagens de programação. [Essa é a wiki](https://github.com/ecpsampaio/recruitment/wiki) do repositório original.
 
 # Coding Practice
 
-Coding Practice for Interviews
+Coding Practice
 
 ### [LeetCode](./LeetCode)
 
