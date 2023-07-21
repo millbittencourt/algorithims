@@ -20,7 +20,6 @@
 |226|[Invert Binary Tree](./LeetCode/Invert%20Binary%20Tree/README.md)|Easy|
 |232|[Implement Queue using Stacks](./LeetCode/Implement%20Queue%20using%20Stacks/README.md)|Easy|
 |237|[Delete Node in a Linked List](./LeetCode/Delete%20Node%20in%20a%20Linked%20List/README.md)|Easy|
-|344|[Reverse String](./LeetCode/Reverse%20String/README.md)|Easy|
 |345|[Reverse Vowels of a String](./LeetCode/Reverse%20Vowels%20of%20a%20String/README.md)|Easy|
 |371|[Sum of Two Integers](./LeetCode/Sum%20of%20Two%20Integers/README.md)|Easy|
 |389|[Find the Difference](./LeetCode/Find%20the%20Difference/README.md)|Easy|
